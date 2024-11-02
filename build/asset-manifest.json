@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c765f95c.css",
+    "main.js": "/static/js/main.b0cf1d5a.js",
+    "static/media/hero.png": "/static/media/hero.843094a858588c420b39.png",
+    "static/media/bg2.png": "/static/media/bg2.f22c946cdc3be2c51ed7.png",
+    "static/media/img4.webp": "/static/media/img4.9f69594d9688ed293c0f.webp",
+    "static/media/logoIcon.jpg": "/static/media/logoIcon.c26bc9836d40616046d8.jpg",
+    "static/media/img2.jpg": "/static/media/img2.ddcc3f53f12f39094cec.jpg",
+    "static/media/img3.webp": "/static/media/img3.227d5fc9510e9dde46a2.webp",
+    "static/media/img1.webp": "/static/media/img1.c19fce19c8ac248917f3.webp",
+    "static/media/shopping-cart-solid.svg": "/static/media/shopping-cart-solid.d146d6c3c3d8c4e2f0b994e4dfba9f7a.svg",
+    "static/media/times-solid.svg": "/static/media/times-solid.ea7c95d7120c0efcb4b16602bf9049a5.svg",
+    "index.html": "/index.html",
+    "static/media/bars-solid.svg": "/static/media/bars-solid.e8db7520285d01597a75c139d54e29ce.svg",
+    "static/media/productIcon.svg": "/static/media/productIcon.55adef9ce050557a192f91b38dc054ef.svg",
+    "static/media/createProductIcon.svg": "/static/media/createProductIcon.44105fa5ff7c3a7e5493fc17507d4186.svg",
+    "static/media/categoryIcon.svg": "/static/media/categoryIcon.59f42d5428cdde9f3514dae61297980a.svg",
+    "static/media/loginIcon.svg": "/static/media/loginIcon.d40c7bfdb278354536e8982389f17383.svg",
+    "static/media/logoutIcon.svg": "/static/media/logoutIcon.57dcc14deccab3400746e74b55077603.svg",
+    "static/media/home.svg": "/static/media/home.4b66a5be22937469bb0acec0a3762e0c.svg",
+    "main.c765f95c.css.map": "/static/css/main.c765f95c.css.map",
+    "main.b0cf1d5a.js.map": "/static/js/main.b0cf1d5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c765f95c.css",
+    "static/js/main.b0cf1d5a.js"
+  ]
+}
