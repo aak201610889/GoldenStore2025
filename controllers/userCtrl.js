@@ -34,7 +34,7 @@ const userCtrl = {
         email,
         password: passwordHash,
         phoneNumber,
-        role
+        
       });
       // save user to database
       await newUser.save();
